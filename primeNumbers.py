@@ -1,4 +1,5 @@
 def primeNumbers(num):
+""" Outputs primeNumbers between 2-8 """
  list_of_prime_numbers = []
 
  for i in range(2, num):
